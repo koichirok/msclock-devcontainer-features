@@ -7,7 +7,7 @@ A vcpkg tool feature
 
 ```json
 "features": {
-    "ghcr.io/msclock/features/vcpkg:2": {}
+    "ghcr.io/koichirok/msclock-devcontainer-features/vcpkg:2": {}
 }
 ```
 
@@ -38,4 +38,4 @@ This Feature should work on recent versions of Debian/Ubuntu, RedHat Enterprise 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/msclock/features/blob/main/src/vcpkg/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/koichirok/msclock-devcontainer-features/blob/main/src/vcpkg/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
